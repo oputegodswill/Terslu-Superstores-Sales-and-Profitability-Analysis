@@ -1,4 +1,5 @@
 INTRODUCTION
+
  Terslu Superstore operates as a business across multiple countries and, like any organization, relies on generating sales and profit to sustain its operations. Ensuring the continued success of Terslu Superstore depends on effective decision-making. To achieve this, the company relies on insights derived from data analysis. In this analysis, I will examine Terslu  Superstore’s sales data to support top executives in making informed decisions that can drive increased revenue and overall sales growth.
  
 Project Split
@@ -103,6 +104,7 @@ Each salesperson shows a dominant product category (e.g., condiments for Laura, 
 The West region contains both mid- and low-performing salespersons, including the overall lowest performer. This suggests the need for territory review, customer expansion, or targeted support.
 
 CONCLUSION
+
 The analysis I carried out shows that sales are strongest in the North and South regions, with beverages as the main revenue driver and peak performance occurring in June and December. However, there are clear gaps in salesperson performance, underperformance in the West, and risks from heavy reliance on a few key customers. By focusing on high-performing areas, supporting weaker regions, expanding customer bases, and promoting cross-selling, the company can improve efficiency and achieve sustainable sales growth
 
 
