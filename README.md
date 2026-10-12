@@ -1,6 +1,6 @@
 INTRODUCTION
  Terslu Superstore operates as a business across multiple countries and, like any organization, relies on generating sales and profit to sustain its operations. Ensuring the continued success of Terslu Superstore depends on effective decision-making. To achieve this, the company relies on insights derived from data analysis. In this analysis, I will examine Terslu  Superstore’s sales data to support top executives in making informed decisions that can drive increased revenue and overall sales growth.
-
+ 
 Project Split
 Independent Values:
 Salesperson, Region, Country/Region, City, Ship Name, Ship City, Payment Type, Product Name, Category, Ship Address
@@ -26,8 +26,7 @@ Dataset & Methodologies
 1. This dataset was downloaded from Kaggle clean already
 2. The presentation was row 370 and column 26.
 3. Some of the data points are: Salesperson, region, product name, ID, Country, City, Order date, Ship Name, Ship Address, Category, etcetera.
-4. 
-5. The dataset was analysed with Excel(pivot table, pivot charts), and the techniques used include forecasting, dashboard actions, calculated fields, etc.
+4. The dataset was analysed with Excel(pivot table, pivot charts), and the techniques used include forecasting, dashboard actions, calculated fields, etc.
 
    Analytical Dashboard
    <img width="1593" height="747" alt="ANALYTICAL DASHBOARD" src="https://github.com/user-attachments/assets/aa70a987-a500-4efc-b453-f81707c1fdab" />
@@ -67,8 +66,6 @@ chicago recorded the least revenue with newyork being the highest, to address th
 7. Top 6 Ship Cities
 prioritize investment in the top 6 ship cities to protect  and grow core revenue.
 
-
-
 POST ANALYSIS 
 OBSERVATIONS
 1.Andrew Cenceni
@@ -104,7 +101,6 @@ Most salespersons rely heavily on one or two major customers. For example, Andre
 Each salesperson shows a dominant product category (e.g., condiments for Laura, sauces for Mariya, dairy for Robert). This suggests opportunities to train salespersons to cross-sell higher-margin categories.
 8. Underperforming territory requires intervention
 The West region contains both mid- and low-performing salespersons, including the overall lowest performer. This suggests the need for territory review, customer expansion, or targeted support.
-
 
 CONCLUSION
 The analysis I carried out shows that sales are strongest in the North and South regions, with beverages as the main revenue driver and peak performance occurring in June and December. However, there are clear gaps in salesperson performance, underperformance in the West, and risks from heavy reliance on a few key customers. By focusing on high-performing areas, supporting weaker regions, expanding customer bases, and promoting cross-selling, the company can improve efficiency and achieve sustainable sales growth
